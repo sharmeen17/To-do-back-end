@@ -22,6 +22,11 @@ This is the **backend** server for the To-Do List Application built using the **
 - PostgreSQL
 
 
+# 🌐 Deployment
+The frontend is deployed on **Vercel** and can be accessed at:
+👉 [https://to-do-front-end-kohl.vercel.app/]
+
+
 
 
 
